@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938293338283",
+    "project_id": "contact-schudule",
+    "storage_bucket": "contact-schudule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938293338283:android:f687ee80252b9f3b3657ee",
+        "android_client_info": {
+          "package_name": "com.example.contact_schudule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938293338283-urjbq27803vi7e2nvf82ufmb1smdqirs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXtboXzCpVGbvpKVz2tMnfx5LZ-DAtf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938293338283-urjbq27803vi7e2nvf82ufmb1smdqirs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
